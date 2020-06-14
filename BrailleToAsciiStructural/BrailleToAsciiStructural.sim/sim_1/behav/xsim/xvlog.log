@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Learning/Academics/Sem 2/ECN-104/Verilog/Braille-Translator-Verilog/Braille-Translator-Verilog.srcs/sources_1/new/brailletoAsciiStructural.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module brailleToBinary
+INFO: [VRFC 10-311] analyzing module binto7segment
+INFO: [VRFC 10-311] analyzing module brailletoAsciiStructural
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Learning/Academics/Sem 2/ECN-104/Verilog/Braille-Translator-Verilog/Braille-Translator-Verilog.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

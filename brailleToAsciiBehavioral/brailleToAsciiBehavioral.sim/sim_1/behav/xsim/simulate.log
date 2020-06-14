@@ -1,0 +1,11 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+digit_1=1011111,digit_2=1110000,braille = 100100 
+digit_1=1110000,digit_2=1111111,braille = 101110 
+digit_1=1110000,digit_2=1111011,braille = 101010 
+digit_1=1111111,digit_2=1111110,braille = 111100 
+digit_1=1111111,digit_2=0110000,braille = 111110 
+digit_1=1111111,digit_2=1110000,braille = 010111 
+digit_1=1111111,digit_2=1111011,braille = 101111 
+digit_1=1111011,digit_2=1111110,braille = 101011 
+$finish called at time : 8 ns : File "D:/Learning/Academics/Sem 2/ECN-104/Verilog/Braille-Translator-Verilog/Braille-Translator-Verilog.srcs/sim_1/new/testbench.v" Line 46
